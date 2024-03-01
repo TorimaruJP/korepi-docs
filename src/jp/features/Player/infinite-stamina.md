@@ -2,7 +2,7 @@
 title: 無限スタミナ
 icon: dumbbell
 category:
-  - 機能
+  - 特徴
 tag:
   - 無限スタミナ
 author: Schvis

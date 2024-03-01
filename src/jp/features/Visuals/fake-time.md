@@ -2,7 +2,7 @@
 title: 時間偽装
 icon: clock
 category:
-  - 機能
+  - 特徴
 tag:
   - 時間偽装
 author: Schvis

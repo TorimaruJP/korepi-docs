@@ -2,7 +2,7 @@
 title: 自動ダッシュ
 icon: person-running
 category:
-  - 機能
+  - 特徴
 tag:
   - 自動ダッシュ
 author: Schvis

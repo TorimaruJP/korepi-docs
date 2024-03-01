@@ -2,7 +2,7 @@
 title: プロフィール変更
 icon: users-gear
 category:
-  - 機能
+  - 特徴
 tag:
   - プロフィール変更
 author: Schvis

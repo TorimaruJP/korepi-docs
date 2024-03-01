@@ -2,7 +2,7 @@
 title: UI非表示
 icon: square
 category:
-  - 機能
+  - 特徴
 tag:
   - UI非表示
 author: Schvis
@@ -18,5 +18,6 @@ order: 12
 ### 編成の体力バーを隠す: (<span style='color:yellow;'>スポンサー</span>)
 - キャラクタータブのチームHPバーのみを隠す。
 
-# ビデオ
+# Video:
+
 <video controls preload="none" width="100%" poster="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/preview"><source src="https://nextcloud.atruicardona.xyz/s/tRDjSriLiqs6QWq/download" type="video/mp4"></video>

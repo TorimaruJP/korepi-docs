@@ -2,7 +2,7 @@
 title: リモートユーティリティー
 icon: tower-broadcast
 category:
-  - 機能
+  - 特徴
 tag:
   - リモートユーティリティー
 author: Schvis

@@ -2,7 +2,7 @@
 title: ノークリップ
 icon: person-walking-dashed-line-arrow-right
 category:
-  - 機能
+  - 特徴
 tag:
   - ノークリップ
 author: Schvis

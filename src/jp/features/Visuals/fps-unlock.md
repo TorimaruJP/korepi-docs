@@ -2,7 +2,7 @@
 title: FPS上限解放
 icon: arrow-up-right-dots
 category:
-  - 機能
+  - 特徴
 tag:
   - FPS上限解放
 author: Schvis

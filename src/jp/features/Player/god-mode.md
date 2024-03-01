@@ -2,7 +2,7 @@
 title: 無敵モード
 icon: user
 category:
-  - 機能
+  - 特徴
 tag:
   - 無敵モード
 author: Schvis

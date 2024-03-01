@@ -2,7 +2,7 @@
 title: アニメーション変更
 icon: people-arrows
 category:
-  - 機能
+  - 特徴
 tag:
   - アニメーション変更
 author: Schvis

@@ -2,7 +2,7 @@
 title: モンスター変更
 icon: arrows-rotate
 category:
-  - 機能
+  - 特徴
 tag:
   - モンスター変更
 author: Schvis

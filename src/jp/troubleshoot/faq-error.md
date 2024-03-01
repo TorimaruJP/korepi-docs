@@ -1,19 +1,19 @@
 ---
-title: インジェクターエラー
+title: 一般的なインジェクターエラー
 icon: info
 category:
-  - トラブルシュート
+  - トラブルシューティング
 tag:
   - Start
 author: Schvis
 order: 2
 ---
 
-## よくあるエラー
+## よくあるエラーリスト
 
 ### korepiが消えてしまうのはなぜですか?
 
-ウイルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。
+ウィルス対策ソフトが無効になっていることを確認し、新しいフォルダを作成して除外項目に追加します。
 
 ![](/assets/images/docs/202312/virus.png)
 
@@ -22,7 +22,7 @@ order: 2
 ---
 ### ステータス: ライセンスキーが無効です。
 
-新しく [キーを取得する](../guide/getkey.md) 必要があります。`⁠★⋅micah-bot-verify⋅★`, キーが手に入らなかったり、キーが使えなかったりした場合は、キーの有効期限が切れるまで待たなければなりません。
+新しく [キーを取得する](../guide/getkey.md) 必要があります。`⁠★⋅micah-bot-verify⋅★`, 鍵が手に入らなかったり、鍵が使えなかったりした場合は、鍵の有効期限が切れるまで待たなければなりません。
 
 `スポンサーは、F:リセットキーを使用することができます。`
 
@@ -110,7 +110,7 @@ colorpicker をアンインストールし、colorpicker をもう一度ダウ�
 
 ![](/assets/images/docs/202312/error3.png)
 
-`cfg.ini` を消去してください。
+消去 `cfg.ini`.
 
 ---
 ### SSL 接続エラー
@@ -142,25 +142,25 @@ PCのウイルス対策ソフトをすべてオフにします。
 
 チェック後にエラーが見つかり、Windowsが解決できない場合は、 `DISM.exe /Online /Cleanup-Image /RestoreHealth` コマンドを使用します。
 
-確認後、コンピューターを再起動し、colorpickerをもう一度実行してみてください。
+確認後、コンピューターを再起動し、カラーピッカーをもう一度実行してみてください。
 
 エラーが繰り返し発生する場合は、Windows を出荷時にリセットしてください。
 
-### データが存在しないか、サーバーエラーです。
+### Current data does not exist or server error.
 
 ![](/assets/images/docs/202312/error.png)
 
-ライセンスの一時停止を解除し、再度お試しください。
+Unpause your license and try again.
 
-### 現在のタイムスタンプを確認できません。
+### Cannot verify current timestamp.
 
 ![](/assets/images/docs/202402/timestamp.png)
 
-ケース 1:
-- VPNを使用中にこのエラーが発生する可能性があります。VPNを無効にして再度お試しください。
+Case 1:
+- You might get this error while using a VPN, please disable it and try again.
 
-ケース 2:
-- PCの時刻が自動同期設定になっているか確認してください。
+Case 2:
+- Check that your PC time is set to automatic sync.
 
-::: info もしあなたがイラン出身なら、代わりにVPNを使う必要があるかもしれません。
+::: info If you are from Iran you might need to use a VPN instead.
 :::

@@ -2,7 +2,7 @@
 title: 追加の速度設定
 icon: bolt
 category:
-  - 機能
+  - 特徴
 tag:
   - 追加の速度設定
 author: Schvis

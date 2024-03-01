@@ -2,7 +2,7 @@
 title: 天候変更
 icon: cloud
 category:
-  - 機能
+  - 特徴
 tag:
   - 天候変更
 author: Schvis

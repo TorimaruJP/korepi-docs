@@ -2,7 +2,7 @@
 title: 追加の描画設定
 icon: eye
 category:
-  - 機能
+  - 特徴
 tag:
   - 追加の描画設定
 author: Schvis

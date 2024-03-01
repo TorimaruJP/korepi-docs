@@ -1,7 +1,7 @@
 ---
 title: エラーリスト
 icon: book
-category: トラブルシュート
+category: トラブルシューティング
 tag: Start
 author: Schvis
 ---

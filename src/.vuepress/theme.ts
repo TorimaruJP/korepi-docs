@@ -142,7 +142,7 @@ export default hopeTheme({
             navbar: jpNavbar,
             sidebar: jpSidebar,
             footer:
-                "Genshin ImpactのPCプレイヤーに最高のゲーム体験を提供。",
+                "Genshin ImpactでPCプレイヤーに最高のゲーム体験を提供。",
 
             displayFooter: true,
 
@@ -271,7 +271,7 @@ export default hopeTheme({
                     },
                     {
                         path: "/jp/",
-                        title: "あなたのスキルを活かそう！",
+                        title: "あなたのスキルを提供しよう",
                         content:
                             "<b>ウェブフロントエンド開発</b> と <b>ドキュメント管理</b>の経験をお持ちの方で、このドキュメンテーション・プロジェクトにそれを活かしたい方は、 <a href='https://github.com/Korepi/korepi-docs'>ぜひ私たちと一緒に活動してください</a>",
                         fullscreen: false,
